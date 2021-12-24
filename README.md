@@ -49,10 +49,11 @@ I connected both my linked my css and javascript file to style and perform funct
 I went into my GitHub account and created a new repository named "Code Quiz Game"
 Then I uploaded all my files, such as readme, HTML, CSS and Javascript.
 
+html Link 
+https://github.com/Geneviealba/Fun-code-game-/blob/master/index.html
 
-
+Final Mock Up 
 https://user-images.githubusercontent.com/94097708/147368684-d7f4db48-1ca1-4573-bba5-e9fcff35d978.mp4
 
 
-[screencapture-geneviealba-github-io-Fun-code-game-2021-12-24-13_26_10.pdf](https://github.com/Geneviealba/Fun-code-game-/files/7775003/screencapture-geneviealba-github-io-Fun-code-game-2021-12-24-13_26_10.pdf)
 
